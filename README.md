@@ -1,2 +1,2 @@
 # AkariFramework
-Simple CSS Framework (Based on Bijou CSS Framework)
+Bijou CSS Framework (http://andhart.github.io/bijou/) をウェブ撃用にカスタマイズしたCSSフレームワークです。
